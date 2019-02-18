@@ -1,4 +1,5 @@
 
+## App Info
 
 > A styled Javascript Countdown Clock built with ES6 and the Parcel bundler
 
@@ -14,7 +15,7 @@ parcel index.html
 # Compiled code in ./dist
 ```
 
-## App Info
+
 
 
 ### Author
