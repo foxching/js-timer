@@ -1,4 +1,4 @@
-Finddit
+
 
 > A styled Javascript Countdown Clock built with ES6 and the Parcel bundler
 
@@ -15,6 +15,7 @@ parcel index.html
 ```
 
 ## App Info
+
 
 ### Author
 
