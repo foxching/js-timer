@@ -1,5 +1,3 @@
-import { getFullName } from './util'
-import '../css/style.css'
 import moment from 'moment'
 
 const countDown = document.querySelector('.countdown');
