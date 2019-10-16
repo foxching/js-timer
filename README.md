@@ -1,9 +1,14 @@
+ 
+<h1 align='center'>Countdown Clock</h1>
 
-## App Info
+<h3 align='center'>  A styled vanilla Js countdown clock </h3>
 
-> A styled Javascript Countdown Clock built with ES6 and the Parcel bundler
 
-## Quick Start
+### Screenshot
+![light theme](https://github.com/foxching/timer/blob/master/src/img/timer.png)
+
+
+### Quick Start
 
 ```bash
 # Install Parcel globally
@@ -15,18 +20,9 @@ parcel index.html
 # Compiled code in ./dist
 ```
 
-
-
-
 ### Author
-
 Rechie Lagria
-[Rechie Lagria](rechielagria@gmail.com)
 
 ### Version
 
 1.0.0
-
-### License
-
-This project is licensed under the MIT License
